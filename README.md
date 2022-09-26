@@ -2,7 +2,7 @@
 Analyzing Medical Bills data
 
 ### Project Overview
-I this project, I looked into seeing what goes into the total charge for medical bills. I analyzed different patients' bill totals along with different attributes to see what are the most important factors that go into determining higher or lower charges. 
+In this project, I looked into seeing what goes into the total charge for medical bills. I analyzed different patients' bill totals along with different attributes to see what are the most important factors that go into determining higher or lower charges. 
 
 ### Dataset Description
 The dataset consists of approximately 1,500 records of patients' medical bills which contain the following patient attributes: age, sex, bmi, children (number of children), smoker (yes/no), region (southwest, southeast, northwest, northeast), charges (total charge). The dataset consists of various data types including numeric, boolean and string
@@ -53,6 +53,6 @@ The next step was to plot a Linear Regression model to be able to predict medica
 
 
 ### Conclusion
-With this analysis of the dataset, I have been able to discover more insight about medical data. I was able to create a linear regression model which can help people accurately estimate and potentially determine how much they will charged at the hospital. One of the more surpising discoveries from the linear regression model was that sex did not actually play a significant role. My assumption going into this project was that women on average would be charged more than men, but this analysis proved me wrong. It was also a surprising discovery that the region also plays a role. Patients in the southern regions tend to be charged more. 
+With the analysis of this dataset, I have been able to discover more insight about medical data. I was able to create a linear regression model which can help people accurately estimate and potentially determine how much they will charged at the hospital. One of the more surpising discoveries from the linear regression model was that sex did not actually play a significant role. My assumption going into this project was that women on average would be charged more than men, but this analysis proved me wrong. It was also a surprising discovery that the region also plays a role. Patients in the southern regions tend to be charged more. 
 
 Overall, analyzing this health data helped me gain more insight regarding the medical industry and motivated me to continue exploring this field even more.
