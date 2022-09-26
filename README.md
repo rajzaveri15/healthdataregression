@@ -9,7 +9,7 @@ The dataset consists of approximately 1,500 records of patients' medical bills w
 
 ### Loading the Data
 ```r
-df = read.csv('C:/Users/rajza/Documents/Portfolio Projects/Health_Data_Analysis/predict-hospital-bills-main/predict-hospital-bills-main/insurance.csv', header=TRUE)
+df = read.csv('insurance.csv', header=TRUE)
 num_cols <- unlist(lapply(df, is.numeric))  
 ```
 
